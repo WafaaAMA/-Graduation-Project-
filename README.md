@@ -10,7 +10,7 @@ You can watch the demo here:
 ## 📱 Installation Instructions
 
 1. **Open the following link to download the app:**  
-   🔗 [Download app-release.apk](https://drive.google.com/file/d/1mATLg__b3-WAV3lZzGaBLjgnsxT50Jmb/view)
+   🔗 [Download app.apk](https://drive.google.com/file/d/1mATLg__b3-WAV3lZzGaBLjgnsxT50Jmb/view)
 
 2. **Installation steps on your phone:**
    - After downloading the file `app-release.apk`, open it.
